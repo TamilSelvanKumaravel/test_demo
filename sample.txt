@@ -1,3 +1,7 @@
 This my sample code .
 
 Git learned part2
+
+updated by person 1
+
+p1-learn few more things
